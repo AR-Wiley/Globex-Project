@@ -1,1 +1,1 @@
-# -Globex-Project
+# Globex-Project
